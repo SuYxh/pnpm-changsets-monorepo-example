@@ -1,5 +1,11 @@
 # @luhengchang228/monorepo-pkg-a
 
+## 0.3.0
+
+### Minor Changes
+
+- add console
+
 ## 0.2.0
 
 ### Minor Changes
