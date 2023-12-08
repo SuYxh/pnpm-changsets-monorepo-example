@@ -1,5 +1,5 @@
 {
-  "name": "@luhengchang228/monorepo-pkg-c",
+  "name": "@xhtest/monorepo-pkg-c",
   "version": "0.0.1",
   "main": "dist/index.js",
   "files": [
