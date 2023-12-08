@@ -1,0 +1,12 @@
+{
+  "mode": "exit",
+  "tag": "beta",
+  "initialVersions": {
+    "@xhtest/monorepo-pkg-a": "0.1.1",
+    "@xhtest/monorepo-pkg-b": "0.0.1",
+    "@xhtest/monorepo-pkg-c": "0.0.1"
+  },
+  "changesets": [
+    "hungry-flowers-listen"
+  ]
+}
