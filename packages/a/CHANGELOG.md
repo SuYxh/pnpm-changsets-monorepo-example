@@ -1,5 +1,11 @@
 # @luhengchang228/monorepo-pkg-a
 
+## 0.2.0
+
+### Minor Changes
+
+- 3e00221: add log
+
 ## 0.2.0-beta.0
 
 ### Minor Changes
