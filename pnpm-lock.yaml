@@ -19,7 +19,7 @@ importers:
   packages/b:
     specifiers:
       '@xhtest/monorepo-pkg-a': ^0.4.0
-      '@xhtest/monorepo-pkg-c': workspace:^0.0.1
+      '@xhtest/monorepo-pkg-c': workspace:^0.0.2
       typescript: ^4.9.4
     dependencies:
       '@xhtest/monorepo-pkg-a': link:../a

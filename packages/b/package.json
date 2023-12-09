@@ -1,13 +1,13 @@
 {
   "name": "@xhtest/monorepo-pkg-b",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "main": "dist/index.js",
   "files": [
     "dist"
   ],
   "dependencies": {
     "@xhtest/monorepo-pkg-a": "^0.4.0",
-    "@xhtest/monorepo-pkg-c": "workspace:^0.0.1"
+    "@xhtest/monorepo-pkg-c": "workspace:^0.0.2"
   },
   "devDependencies": {
     "typescript": "^4.9.4"

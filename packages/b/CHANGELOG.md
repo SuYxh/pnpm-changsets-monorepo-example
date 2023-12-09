@@ -1,5 +1,13 @@
 # @luhengchang228/monorepo-pkg-b
 
+## 0.0.5
+
+### Patch Changes
+
+- add bao
+- Updated dependencies
+  - @xhtest/monorepo-pkg-c@0.0.2
+
 ## 0.0.4
 
 ### Patch Changes
