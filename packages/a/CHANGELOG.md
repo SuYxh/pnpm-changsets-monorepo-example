@@ -1,5 +1,11 @@
 # @luhengchang228/monorepo-pkg-a
 
+## 0.4.0
+
+### Minor Changes
+
+- add func
+
 ## 0.3.0
 
 ### Minor Changes
