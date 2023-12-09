@@ -6,7 +6,8 @@
     "dist"
   ],
   "dependencies": {
-    "@xhtest/monorepo-pkg-a": "^0.4.0"
+    "@xhtest/monorepo-pkg-a": "^0.4.0",
+    "@xhtest/monorepo-pkg-c": "workspace:^0.0.1"
   },
   "devDependencies": {
     "typescript": "^4.9.4"
